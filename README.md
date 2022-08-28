@@ -1,2 +1,2 @@
-# sesac_group_study-coding_test
+# sesac_group_study
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
