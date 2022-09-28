@@ -12,4 +12,4 @@ def solution(arr):
     for j in arr:
         len+=1
     answer = sum/len
-    return answer
+    return answer 
