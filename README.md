@@ -23,7 +23,7 @@
 
   </details>
 
-**[PART 2 (기초)]()**
+**[PART 2 (기초)](https://github.com/yunyeong-choi/coding_study/blob/master/SQL_200%EC%A0%9C/PART2_%EA%B8%B0%EC%B4%8816_40.sql)**
   <details>
    <summary>PART 2 목차</summary>
  
