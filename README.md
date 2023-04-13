@@ -22,3 +22,35 @@
  > 013. 비교연산자 IS NULL (연산자로 비교불가)
 
   </details>
+
+**[PART 2 (기초)]()**
+  <details>
+   <summary>PART 2 목차</summary>
+ 
+ > 016.대소문자 변환 UPPER, LOWER, INITCAP <br/> 
+ > 017. 문자에서 특정 철자 추출 SUBSTR <br/> 
+ > 018. 문자열 길이 출력 LENGTH  <br/> 
+ > 019. 문자에서 특정 철자의 위치 출력 INSTR <br/> 
+ > 020. 특정 철자를 다른 철자로 변경 REPLACE,REGEXP_REPLACE <br/> 
+ > 021. 특정 철자를 N개 만큼 채우기 LPAD, RPAD <br/> 
+ > 022. ⭐특정 철자 잘라내기 TRIM <br/> 
+ > 023. 반올림 ROUND <br/> 
+ > 024. 숫자 버리고 출력 TRUNC <br/> 
+ > 025. 나눈 나머지 값 출력 MOD <br/> 
+ > 026. ⭐날짜 간 개월수 출력 MONTHS_BETWEEN <br/> 
+ > 027. ⭐개월수 더한 날짜 출력 ADD_MONTHS <br/> 
+ > 028. ⭐ 특정 날짜 뒤에 오는 요일 날짜 출력  NEXT_DAY <br/> 
+ > 029. ⭐특정 날짜가 있는 달의 마지막 날짜 출력 LAST_DAY  <br/>
+ > 030. 문자형으로 데이터 형태 변환 TO_CHAR <br/>
+ > 031. 날짜형으로 데이터 형태 변환 TO_DATE <br/>
+ > 032. 암시적 형변환 <br/>
+ > 033.⭐null값 대신 다른 데이터 출력 NVL, NVL2 <br/>
+ > 034.⭐IF문, DECODE (MYSQL : CASE~WHEN~ELSE) <br/>
+ > 035.⭐IF문 구현 CASE~WHEN <br/>
+ > 036. 최대값 MAX <br/>
+ > 037. 최소값 MIN <br/>
+ > 038. 평균값 AVG <br/> 
+ > 039. 총합계 출력 SUM <br/>
+ > 040. 개수 출력 COUNT
+ 
+  </details>
