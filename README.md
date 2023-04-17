@@ -23,7 +23,8 @@
 
   </details>
 
-**[PART 2 (기초)](https://github.com/yunyeong-choi/coding_study/blob/master/SQL_200%EC%A0%9C/PART2_%EA%B8%B0%EC%B4%8816_40.sql)**
+**[PART 2 (기초) 16~40](https://github.com/yunyeong-choi/coding_study/blob/master/SQL_200%EC%A0%9C/PART2_%EA%B8%B0%EC%B4%8816_40.sql)**
+, **[PART 2 (기초)41~55](https://github.com/yunyeong-choi/coding_study/blob/master/SQL_200%EC%A0%9C/PART2_%EA%B8%B0%EC%B4%8841_55.sql)**
   <details>
    <summary>PART 2 목차</summary>
  
@@ -45,12 +46,27 @@
  > 031. 날짜형으로 데이터 형태 변환 TO_DATE <br/>
  > 032. 암시적 형변환 <br/>
  > 033.⭐null값 대신 다른 데이터 출력 NVL, NVL2 <br/>
- > 034.⭐IF문, DECODE (MYSQL : CASE~WHEN~ELSE) <br/>
- > 035.⭐IF문 구현 CASE~WHEN <br/>
+ > 034.⭐IF문, DECODE (MYSQL : CASE WHEN ELSE) <br/>
+ > 035.⭐IF문 구현 CASE WHEN <br/>
  > 036. 최대값 MAX <br/>
  > 037. 최소값 MIN <br/>
  > 038. 평균값 AVG <br/> 
  > 039. 총합계 출력 SUM <br/>
- > 040. 개수 출력 COUNT
+ > 040. 개수 출력 COUNT <br/>
+ > 041. 순위출력 RANK  1,1,2 <br/>
+ > 042. 순위출력 DENSE_RANK 1,1,3 <br/>
+ > 043. 등급출력 NTILE() <br/>
+ > 044. 등급의 비율 출력 CUM_DIST() <br/>
+ > 045.⭐ 데이터 가로출력 GROUP_CONCAT() GROUP BY <br/>
+ > 046. 바로 전행과 다음행 출력 LAG(), LEAD() <br/>
+ > 047. ⭐칼럼을 행ROW로 출력 O :DECODE, MY : 조건문 <br/>
+ > 048. 칼럼을 행ROW으로 출력 PIVOT (ORACLE) <br/>
+ > 049. 행을 칼럼으로 출력 UNPIVOT (ORACLE) <br/>
+ > 050. 누적 데이터 출력 SUM() OVER() <br/>
+ > 051. 비율출력 RATIO_TO_REPORT (ORACLE) <br/>
+ > 052.⭐ 아래에 집계결과 출력 ROLLUP <br/>
+ > 053. ⭐ 위쪽에 집계결과 출력 CUBE <br/>
+ > 054. 집계결과 출력 GROUPING SETS (ORACLE) <br/>
+ > 055. 출력행마다 넘버링하기 ROW_NUMBER() OVER(ORDER BY)
  
   </details>
